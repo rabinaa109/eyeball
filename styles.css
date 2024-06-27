@@ -60,7 +60,7 @@ html, body {
   background: #000;
   background-image: url("./blueee.png");
   position: absolute;
-  top: 40%;
+  top: 20%;
   left: 70%;
   transform: translate(-50%, -50%);
   border-radius: 50%;

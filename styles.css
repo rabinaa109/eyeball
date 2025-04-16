@@ -38,7 +38,7 @@ html, body {
 }
 .eyes {
   position: absolute;
-  top:80%;
+  top:100%;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
